@@ -1,0 +1,5 @@
+Camera Name,IP Address,Location,Timestamp,Port,Username,Password,Brand,Channel,RTSP URL
+Testing camera,192.168.1.12,,,554,admin,Dev2105@,Hikvision,,rtsp://admin:Dev2105@@192.168.1.12:554/ISAPI/Streaming/Channels/1
+Dahua NVR NVR (192.168.0.112),192.168.0.112,,,37777,admin,admin123,Dahua NVR,1.0,rtsp://admin:admin@123@192.168.0.112:37777/main
+Hikvision NVR (192.168.0.100),192.168.0.100,,,8000,admin,admin123,Hikvision,1.0,rtsp://admin:admin@123@192.168.0.100:8000/main
+alhua,192.168.1.108,,,554,admin,Cctv2105@,Generic,1,

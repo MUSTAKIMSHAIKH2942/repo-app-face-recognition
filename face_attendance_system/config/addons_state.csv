@@ -1,0 +1,5 @@
+motion_detection,False
+real_time_alerts,False
+multiple_faces,True
+mask_detection,False
+emotion_recognition,False
